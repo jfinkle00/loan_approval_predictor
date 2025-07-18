@@ -5,7 +5,7 @@ Contact Information: jfinkle00@gmail.com
 🏦 Loan Approval & Delinquency Prediction Using Machine Learning
 
 📌 Overview
-This project predicts whether a loan application will be delinquent or not based on customer financial data and loan characteristics. Using machine learning classification models, this project demonstrates feature engineering, model comparison, and performance evaluation techniques commonly used in data science.
+This project predicts whether a loan application will be approved or not based on customer financial data and loan characteristics. Using machine learning classification models, this project demonstrates feature engineering, model comparison, and performance evaluation techniques commonly used in data science.
 
 📂 Dataset Description
 Rows: 24,000 loan applicants
