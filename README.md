@@ -2,7 +2,7 @@ Author: Jason Finkle
 
 Contact Information: jfinkle00@gmail.com
 
-🏦 Loan Approval & Delinquency Prediction Using Machine Learning
+🏦 Loan Approval Prediction Using Machine Learning
 
 📌 Overview
 This project predicts whether a loan application will be approved or not based on customer financial data and loan characteristics. Using machine learning classification models, this project demonstrates feature engineering, model comparison, and performance evaluation techniques commonly used in data science.
@@ -30,13 +30,21 @@ Approval: Loan status (Approved/Rejected)
 <img width="653" height="413" alt="image" src="https://github.com/user-attachments/assets/fba1d0b7-7e70-4541-8624-d74682ecc2c7" />
 
 Income	Credit_Score	Loan_Amount	DTI_Ratio
+
 count	24000.000000	24000.000000	24000.000000	24000.000000
+
 mean	110377.552708	575.720333	44356.154833	34.719167
+
 std	51729.677627	159.227621	34666.604785	32.322471
+
 min	20001.000000	300.000000	1005.000000	2.530000
+
 25%	65635.750000	437.000000	16212.000000	14.507500
+
 50%	110464.000000	575.000000	35207.000000	24.860000
+
 75%	155187.000000	715.000000	65622.750000	41.840000
+
 max	200000.000000	850.000000	158834.000000	246.330000
 
 
