@@ -26,6 +26,22 @@ Text: Loan purpose description
 
 Approval: Loan status (Approved/Rejected)
 
+<img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/a16f4eab-9806-44c0-ab23-bd247b1d8ad2" />
+<img width="653" height="413" alt="image" src="https://github.com/user-attachments/assets/fba1d0b7-7e70-4541-8624-d74682ecc2c7" />
+
+Income	Credit_Score	Loan_Amount	DTI_Ratio
+count	24000.000000	24000.000000	24000.000000	24000.000000
+mean	110377.552708	575.720333	44356.154833	34.719167
+std	51729.677627	159.227621	34666.604785	32.322471
+min	20001.000000	300.000000	1005.000000	2.530000
+25%	65635.750000	437.000000	16212.000000	14.507500
+50%	110464.000000	575.000000	35207.000000	24.860000
+75%	155187.000000	715.000000	65622.750000	41.840000
+max	200000.000000	850.000000	158834.000000	246.330000
+
+
+
+
 ✅ No missing values
 ✅ Cleaned categorical variables using One-Hot Encoding
 ✅ Normalized continuous features using MinMaxScaler
@@ -57,9 +73,21 @@ Side-by-side metric comparison using grouped bar plots
 
 📊 Results Summary
 
+Feature Importance
+
+<img width="556" height="631" alt="image" src="https://github.com/user-attachments/assets/b5926e97-1a87-466f-bb53-485f6d093cdd" />
+<img width="559" height="633" alt="image" src="https://github.com/user-attachments/assets/cfb354d3-368f-4529-9fc1-4b58794fc56e" />
+<img width="546" height="631" alt="image" src="https://github.com/user-attachments/assets/447ffebb-6cd1-484a-ae08-a309dc7cb077" />
+
+
+
+
 Voting Classifier provided balanced performance with high accuracy and recall.
 
 Visualizations clearly display the comparative strengths and weaknesses of each model.
+
+<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/2a1b6ccd-44f1-413a-b3c2-f80054bd84f5" />
+
 
 🖥️ Technologies Used
 Language: Python
